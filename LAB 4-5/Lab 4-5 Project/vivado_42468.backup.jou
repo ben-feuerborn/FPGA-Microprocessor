@@ -1,0 +1,71 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri Nov 15 13:26:25 2024
+# Process ID: 42468
+# Current directory: C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 4-5/Lab 4-5 Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent58016 C:\Users\bfeue\Documents\Classwork\ECE 369\LAB 4-5\Lab 4-5 Project\Lab 4-5 Project.xpr
+# Log file: C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 4-5/Lab 4-5 Project/vivado.log
+# Journal file: C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 4-5/Lab 4-5 Project\vivado.jou
+# Running On: Ben_Laptop, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 10, Host memory: 16782 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 4-5/Lab 4-5 Project/Lab 4-5 Project.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source Datapath_tb.tcl
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/read_data_1}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/read_data_2}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/alu_top_out}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/alu_bottom_out}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/alu_result}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/alu_op_id_ex}} 
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/reg_write_mem_wb}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/mem_to_reg_mem_wb}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/write_back}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/write_register_out}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/write_data_out}} 
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/reg_dest_ex_mem}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/reg_dest}} 
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/reg_dest_mem_wb}} 
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/instruction_id_ex}} 
+relaunch_sim
+current_wave_config {Untitled 1}
+add_wave {{/Datapath_tb/datapath/instruction}} 
+relaunch_sim
+close_sim
+launch_simulation
+source Datapath_tb.tcl
+current_wave_config {Untitled 2}
+add_wave {{/Datapath_tb/datapath/instruction}} 
+relaunch_sim
+close_sim
+launch_simulation
+source Datapath_tb.tcl
+close_sim
+launch_simulation
+source Datapath_tb.tcl
+close_sim
+launch_simulation
+source Datapath_tb.tcl
+run 10 us
+close_sim

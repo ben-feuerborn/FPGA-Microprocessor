@@ -1,0 +1,44 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/ALU32Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU32Bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/AndGate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AndGate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/ControlMux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlMux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/HazardDetectionUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HazardDetectionUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/InstructionMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Mux32Bit2To1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux32Bit2To1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Mux32Bit3To1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux32Bit3To1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Mux5Bit2To1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux5Bit2To1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/PCAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/ProgramCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Register_EX_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_EX_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Register_ID_EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_ID_EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Register_IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/Register_MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_MEM_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/ShiftLeft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ShiftLeft
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sources_1/new/SignExtension.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignExtension
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 6/Lab 6 Project/Lab 6 Project.srcs/sim_1/new/Datapath_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath_tb

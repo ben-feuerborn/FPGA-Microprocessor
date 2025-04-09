@@ -1,0 +1,24 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Top_tb_behav xil_defaultlib.Top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'Instruction' [C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 1/Resources/Lab 1 Project/Lab 1 Project.srcs/sources_1/new/Top.v:20]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 1/Resources/4-ClockDivider/ClkDiv.v" Line 1. Module ClkDiv doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/bfeue/Documents/Classwork/ECE 369/LAB 1/Resources/4-ClockDivider/ClkDiv.v" Line 1. Module ClkDiv doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PCAdder
+Compiling module xil_defaultlib.ProgramCounter
+Compiling module xil_defaultlib.InstructionMemory
+Compiling module xil_defaultlib.InstructionFetchUnit
+Compiling module xil_defaultlib.ClkDiv
+Compiling module xil_defaultlib.SevenSegment
+Compiling module xil_defaultlib.Two4DigitDisplay
+Compiling module xil_defaultlib.Top
+Compiling module xil_defaultlib.Top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Top_tb_behav
